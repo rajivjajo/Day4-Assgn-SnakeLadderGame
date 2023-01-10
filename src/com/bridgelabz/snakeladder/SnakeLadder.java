@@ -25,5 +25,6 @@ public class SnakeLadder {
         }
         System.out.println("Player position is at : " +player1Position);
 
+
     }
 }
